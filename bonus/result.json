@@ -1,0 +1,22 @@
+[
+    {"drug":"ETHANOL","id":"6","journal":"Psychopharmacology","date":"2020-01-01"},
+    {"drug":"TETRACYCLINE","id":"6","journal":"Psychopharmacology","date":"2020-01-01"},
+    {"drug":"TETRACYCLINE","id":"4","journal":"Journal of food protection","date":"2020-01-01"},
+    {"drug":"DIPHENHYDRAMINE","id":"NCT01967433","journal":"Journal of emergency nursing","date":"2020-01-01"},
+    {"drug":"DIPHENHYDRAMINE","id":"NCT04189588","journal":"Journal of emergency nursing","date":"2020-01-01"},
+    {"drug":"DIPHENHYDRAMINE","id":"NCT04237091","journal":"Journal of emergency nursing","date":"2020-01-01"},
+    {"drug":"BETAMETHASONE","id":"NCT04153396","journal":"Hôpitaux Universitaires de Genève","date":"2020-01-01"},
+    {"drug":"BETAMETHASONE","id":"10","journal":"The journal of maternal-fetal \u0026 neonatal medicine","date":"2020-01-01"},
+    {"drug":"BETAMETHASONE","id":"11","journal":"Journal of back and musculoskeletal rehabilitation","date":"2020-01-01"},
+    {"drug":"ISOPRENALINE","id":"9","journal":"Journal of photochemistry and photobiology. B, Biology","date":"2020-01-01"},
+    {"drug":"TETRACYCLINE","id":"5","journal":"American journal of veterinary research","date":"2020-01-02"},
+    {"drug":"EPINEPHRINE","id":"7","journal":"The journal of allergy and clinical immunology. In practice","date":"2020-02-01"},
+    {"drug":"ATROPINE","journal":"The journal of maternal-fetal \u0026 neonatal medicine","date":"2020-03-01"},
+    {"drug":"BETAMETHASONE","journal":"The journal of maternal-fetal \u0026 neonatal medicine","date":"2020-03-01"},
+    {"drug":"EPINEPHRINE","id":"8","journal":"The journal of allergy and clinical immunology. In practice","date":"2020-03-01"},
+    {"drug":"EPINEPHRINE","id":"NCT04188184","journal":"Journal of emergency nursing\\xc3\\x28","date":"2020-04-27"},
+    {"drug":"DIPHENHYDRAMINE","id":"1","journal":"Journal of emergency nursing","date":"2019-01-01"},
+    {"drug":"DIPHENHYDRAMINE","id":"2","journal":"Journal of emergency nursing","date":"2019-01-01"},
+    {"drug":"DIPHENHYDRAMINE","id":"3","journal":"The Journal of pediatrics","date":"2019-01-02"}
+    
+]
