@@ -111,20 +111,19 @@ Here you can fin two sql files (query_1, query_2) used to answer the relative 2 
 
  To handle a huge amoount of data , severals improvements must be done at different level:
 
-  - Cloud Storage:
-      => Use the appropriate storage classes (Standard, Nearline).
-      => Organize and partition files for optimized storage and processing efficiency.
+- `Cloud Storage`:
+     - Use the appropriate storage classes (Standard, Nearline).
+     - Organize and partition files for optimized storage and processing efficiency.
 
-  - Dataflow pipeline:
-      => Enable auto-scaling to automatically increase the number of workers when the load increases.
-      => Use partitioning to maximize parallelism.
-      => Reduce I/O by favoring data batching.
+- `Dataflow pipeline`:
+     - Enable auto-scaling to automatically increase the number of workers when the load increases.
+     - Use partitioning to maximize parallelism.
+     Reduce I/O by favoring data batching.
 
-  - Cloud Function:
+- `Cloud Function`:
+     - Increase memory and timeout if necessary.
+     - Limit simultaneous triggers by using batching.
 
-      => Increase memory and timeout if necessary.
-      => Limit simultaneous triggers by using batching.
-
-  - Monitoring:
-      =>Monitor metrics with Cloud Monitoring and continuously optimize.
+- `Monitoring`:
+     - Monitor metrics with Cloud Monitoring and continuously optimize.
 
