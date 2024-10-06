@@ -107,9 +107,7 @@ used to retreive the journal which menstioned the most unique drugs.
 
 Here you can fin two sql files (query_1, query_2) used to answer the relative 2 questions of the test
 
- ##  SQL
-
- Improvement
+ ##  Improvement
 
  To handle a huge amoount of data , severals improvements must be done at different level:
 
